@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    direction: rtl;
+    margin-top: 40px;
+}
+
+.box > button{
+    padding: 5px;
+}
